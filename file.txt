@@ -1,0 +1,1 @@
+1,Battery Update,Current charge is 15%,Charge,System,Low
